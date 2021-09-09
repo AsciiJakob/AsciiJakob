@@ -1,19 +1,6 @@
 ### Hi there 👋
-Thanks for checking out my profile, My name is **Jakob** and I am a **16** year old **male** from **Sweden** who likes programming.
-
-***I am proficient in:***
-- Vanilla Javascript,
-- NodeJS,
-- HTML & CSS,
-- And various Javascript frameworks.
-
-***Languages I know, but rarely use:***
-- Lua
-- Python
-
-***Languages I am currently learning:***
-- Typescript
-- C++
+Thanks for checking out my profile, My name is **Jakob** and I am a **16** year old **male** from **Sweden**.
+I mostly do full-stack web development, but also other forms of programming.
 
 
 <!--

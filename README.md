@@ -1,6 +1,9 @@
 ### Hi there 👋
-Thanks for checking out my profile, My name is **Jakob** and I am a **16** year old **male** from **Sweden**.
-I mostly do full-stack web development, but also other forms of programming.
+17 year old programmer from Sweden, interested in graphics programming as of recently.
+I'm an advocate for free open source software so feel free to contribute to any of my repositories, though most of them are private for various reasons.
+<br>Expect more repositories in the future, i am more focused on smaller projects for the time being.
+
+For more information about me, check out my homepage @ https://jakobs.work
 
 
 <!--

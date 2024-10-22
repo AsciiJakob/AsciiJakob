@@ -1,5 +1,5 @@
 ### Hi there 👋
-18 year old programmer from Sweden, interested in graphics programming as of recently.
+20 year old programmer from Sweden, interested in graphics and low-level programming as of recently. Mostly busy with maths right now though.
 I'm an advocate for free open source software so feel free to contribute to any of my repositories, though most of them are private for various reasons.
 <br>Expect more repositories in the future, i am more focused on smaller projects for the time being.
 
